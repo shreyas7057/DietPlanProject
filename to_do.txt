@@ -25,6 +25,3 @@ TASK_to_Assign :
                2. Create a new feature 'Diet' with respect to age,
                     obesity, alcohol consumption and diabetes
 
-
-
-feew changes 
