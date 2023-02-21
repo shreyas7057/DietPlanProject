@@ -25,3 +25,15 @@ TASK_to_Assign :
                2. Create a new feature 'Diet' with respect to age,
                     obesity, alcohol consumption and diabetes
 
+
+
+*******************************************************************************************************
+
+objective :
+
+select feature : taking all the features as all are important
+
+target feature : BMI(Body mass index)
+
+
+**use bin for selecting range of bmi
